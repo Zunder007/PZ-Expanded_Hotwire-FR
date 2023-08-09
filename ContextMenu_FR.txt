@@ -1,0 +1,7 @@
+ContextMenu_FR = {
+    ContextMenu_VehicleHotwireSkillEH = "Il vous faut les clés ou<br>électricité niveau ? et<br>Mécanique niveau ?<br>pour démarrer avec les fils",
+	ContextMenu_VehicleUnHotwire = "Recâblage",
+	ContextMenu_VehicleUnHotwireSkillEH = "Il vous faut les clés ou<br>électricité niveau ? et<br>Mécanique niveau ?<br>pour recâblé le Neiman.",
+	ContextMenu_VehicleKeyCrafting = "Fabrication Clé",
+	ContextMenu_VehicleKeyCraftingSkill = "Il vous faut les clés ou<br>électricité niveau ? et<br>Mécanique niveau ?<br>et Travail des métaux niveau ?<br>pour fabriquer une clé.",
+}
